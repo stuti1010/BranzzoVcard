@@ -1,0 +1,35 @@
+{
+  "about": {
+    "title": "Empowering Your Digital Identity",
+    "subtitle": "Helping you get the best digital presence with Branzzo vCard.",
+    "features": [
+      { "label": "100% Responsive" },
+      { "label": "Advanced UI" },
+      { "label": "SEO Optimized" }
+    ],
+    "cardImage": "/images/vcard-about.png"
+  },
+  "benefits": {
+    "title": "Extraordinary card for extraordinary professionals",
+    "items": [
+      {
+        "title": "BranzzoCard",
+        "description": "Your smart digital card that connects instantly and professionally."
+      },
+      {
+        "title": "MobileCard",
+        "description": "Seamlessly works across all mobile devices with smart tap and scan."
+      }
+    ],
+    "card1": "/images/benefit-card-1.png",
+    "card2": "/images/benefit-card-2.png"
+  },
+  "cta": {
+    "title": "Subscribe To Branzzo vCard!",
+    "description": "Stay ahead by subscribing to Branzzo updates. Discover digital business card trends & branding strategies in real-time.",
+    "placeholder": "Enter your email",
+    "buttonText": "Subscribe Now",
+    "disclaimer": "I agree to receive Branzzo's marketing updates and newsletters.",
+    "image": "/images/cta-card.png"
+  }
+}
